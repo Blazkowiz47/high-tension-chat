@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.depression.high_tension_chat">
+    package="depression.high_tension_chat">
    <application
         android:label="high_tension_chat"
         android:icon="@mipmap/ic_launcher">
