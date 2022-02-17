@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "738533616346",
+    "project_id": "high-tension-chat",
+    "storage_bucket": "high-tension-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738533616346:android:879e1c1a6acafb575993e3",
+        "android_client_info": {
+          "package_name": "com.depression.high_tension_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738533616346-5ubgis96li50a1r4nn50hbtsuih4b3vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsu1gT_EblECqDNgQwv3hK8ExGaV57_oQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738533616346-5ubgis96li50a1r4nn50hbtsuih4b3vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
