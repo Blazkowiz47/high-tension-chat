@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:738533616346:android:879e1c1a6acafb575993e3",
+        "mobilesdk_app_id": "1:738533616346:android:50df423998da2ec35993e3",
         "android_client_info": {
-          "package_name": "com.depression.high_tension_chat"
+          "package_name": "depression.high_tension_chat"
         }
       },
       "oauth_client": [
